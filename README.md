@@ -96,4 +96,3 @@ src/
 Aspiring Full-Stack / Frontend Developer
 ---
 
-⭐ If you found this project useful or interesting, feel free to star the repository!
